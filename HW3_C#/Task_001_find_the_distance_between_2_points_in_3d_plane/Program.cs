@@ -2,12 +2,12 @@
 //Formula: sqrt((x1 - x2)^2 +(y1 - y2)^2)//sqrt - корень квадратный выражения
 //double s = Math.Sqrt(...);
 Console.Clear();
-Console.WriteLine("Enter values x and y for the point 'A' one by one");
+Console.WriteLine("Enter values x and y and z for the point 'A' one by one");
 double xA = double.Parse(Console.ReadLine());
 double yA = double.Parse(Console.ReadLine());
 double zA = double.Parse(Console.ReadLine());
 
-Console.WriteLine("Enter values x and y for the point 'B' one by one");
+Console.WriteLine("Enter values x and y and z for the point 'B' one by one");
 double xB = double.Parse(Console.ReadLine());
 double yB = double.Parse(Console.ReadLine());
 double zB = double.Parse(Console.ReadLine());
