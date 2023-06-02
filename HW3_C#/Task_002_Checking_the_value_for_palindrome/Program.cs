@@ -1,4 +1,5 @@
-﻿/*Console.Clear();
+﻿//Проверка числа на палиндромальность.
+/*Console.Clear();
 Console.WriteLine("Please, enter a integer number for check for palindrome");
 //"Введите 5ти значное просто число разделяя запятыми (seprated by commans) для проверки на палиндромность.
 string inputString = Console.ReadLine();
@@ -39,7 +40,7 @@ Console.Clear();
 Console.WriteLine("Please, enter a integer number for check for palindrome");
 string inputString = Console.ReadLine();
 string[] inputArray = inputString.Split(", ");
-foreach( string element in inputArray)//не нужнг проверять длину массива на четность, так при нецелочисленном результате деления на 2, результат будет округлен в меньшую сторону.
+foreach( string element in inputArray)//не нужно проверять длину массива на четность, так при нецелочисленном результате деления на 2, результат будет округлен в меньшую сторону.
 {
     bool isPalindrome = true;
     for(int i = 0; i < element.Length / 2; i++)
