@@ -1,0 +1,15 @@
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.csproj.AssemblyReference.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.AssemblyInfoInputs.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.AssemblyInfo.cs
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.csproj.CoreCompileInputs.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\bin\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.exe
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\bin\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.deps.json
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\bin\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.runtimeconfig.json
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\bin\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\bin\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.pdb
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\refint\Task_002_Checking_the_value_for_palindrome.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.pdb
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\Task_002_Checking_the_value_for_palindrome.genruntimeconfig.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_002_Checking_the_value_for_palindrome\obj\Debug\net7.0\ref\Task_002_Checking_the_value_for_palindrome.dll
