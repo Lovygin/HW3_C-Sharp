@@ -1,0 +1,15 @@
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.csproj.AssemblyReference.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.AssemblyInfoInputs.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.AssemblyInfo.cs
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.csproj.CoreCompileInputs.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\bin\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.exe
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\bin\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.deps.json
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\bin\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.runtimeconfig.json
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\bin\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\bin\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.pdb
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\refint\Task_003_list_of_cubes_of_numbers_from_1_to_N.dll
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.pdb
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\Task_003_list_of_cubes_of_numbers_from_1_to_N.genruntimeconfig.cache
+C:\Users\lovygin.aleksandr\Desktop\C#\Seminars\HW_C_Sharp\HW3_C#\Task_003_list_of_cubes_of_numbers_from_1_to_N\obj\Debug\net7.0\ref\Task_003_list_of_cubes_of_numbers_from_1_to_N.dll
