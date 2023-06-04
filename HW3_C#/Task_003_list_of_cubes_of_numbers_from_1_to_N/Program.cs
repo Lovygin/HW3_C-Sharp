@@ -8,4 +8,5 @@ int[] cubes = new int[N];
     {
         cubes[i-1] = (int)Math.Pow(i, 3);//Нужно написать (int) перед Math.Pow(...) ХЗ зачем и когда конкретно.
     }
-    Console.WriteLine(cubes);
+    Console.WriteLine(string.Join(", ", cubes));//string.Join(", ", cubes) - объединяет массивы элементы массива cubes,
+                                                //разделяя их запятыми и пробелом. Вывод в виде стороки
